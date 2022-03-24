@@ -5,6 +5,7 @@ const nextConfig = {
   env: {
     title: "환경 변수 셋팅 연습",
   },
+  distDir: "build",
 };
 
 module.exports = nextConfig;
